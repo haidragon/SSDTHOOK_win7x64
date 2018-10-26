@@ -1,0 +1,22 @@
+﻿  Building 'SSDTHOOK_win7x64' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.c
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(32): warning C4057: “函数”:“const char *”与“UCHAR *”在稍微不同的基类型间接寻址上不同
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(69): warning C4305: “类型转换”: 从“ULONGLONG”到“char *”截断
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(74): warning C4305: “类型转换”: 从“ULONGLONG”到“USHORT *”截断
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(75): warning C4305: “类型转换”: 从“ULONGLONG”到“LONG *”截断
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(62): warning C4295: “KiSystemServiceStart_pattern”: 数组太小，无法包括终止 null 字符
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(65): warning C4101: “Symbol”: 未引用的局部变量
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(109): warning C4152: 非标准扩展，表达式中的函数/数据指针转换
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(110): warning C4152: 非标准扩展，表达式中的函数/数据指针转换
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(120): warning C4305: “类型转换”: 从“ULONGLONG”到“NTTERMINATEPROCESS”截断
+C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\SSDTHOOK_win7x64\hookssdt.h(117): warning C4189: “dwtmp”: 局部变量已初始化但不引用
+main.c(5): warning C4100: “pDriver”: 未引用的形参
+main.c(16): warning C4305: “类型转换”: 从“ULONGLONG”到“PSYSTEM_SERVICE_TABLE”截断
+main.c(12): warning C4100: “pPath”: 未引用的形参
+  SSDTHOOK_win7x64.vcxproj -> C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\Debug\SSDTHOOK_win7x64.sys
+  SSDTHOOK_win7x64.vcxproj -> C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\Debug\SSDTHOOK_win7x64.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\project\python\0ReviewThird\Driver\SSDTHOOK_win7x64\Debug\SSDTHOOK_win7x64.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
